@@ -343,3 +343,6 @@
 @media screen and (max-width: 420px) {
 	.cb-slideshow li div h3 { font-size: 2em }
 }
+@media screen and (max-width: 420px) {
+	.row-fluid  { display: none}
+}

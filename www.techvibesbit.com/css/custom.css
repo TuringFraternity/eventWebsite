@@ -20,7 +20,7 @@ top:0px;
   margin-bottom: 0;
   font-weight: bold;
   text-align: center;
-color: #fff; background-color: #333; 
+color: #fff; background-color: #333;
 }
 .nav-justified > li:first-child > a {
   border-radius: 5px 5px 0 0;
@@ -85,9 +85,9 @@ color: #fff; background-color: #333;
 }
 .footer{
 	bottom:30px;
-	width:100%; 
-	text-align:center;		
-	color:white;	
+	width:100%;
+	text-align:center;
+	color:white;
 }
 .col-sm-2{
 	margin-bottom:30px;
@@ -96,11 +96,11 @@ color: #fff; background-color: #333;
 	position: absolute;
 	background-color: white;
 	box-shadow: 5px 4px 8px 5px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	text-align:center;		
+	text-align:center;
 	padding:20px;
 }
 .zoomevent{
-	cursor : pointer;	
+	cursor : pointer;
 }
 .zoomevent:hover {
   -webkit-transform: scale(1.2);
